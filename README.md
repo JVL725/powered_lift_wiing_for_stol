@@ -21,7 +21,7 @@ explored cutting-edge optimization techniques by implementing Physics-Informed N
 multi-element airfoil configurations, creating a robust mathematical model to guide the final geometric
 refinements.
 Airfoil Selection and High-Lift Development
-The foundation of the aerodynamic design was the selection of the Selig S1223 airfoil. After a
+The foundation of the aerodynamic design was the selection of the  Selig S1223 airfoil. After a
 comprehensive comparative analysis against alternative profiles like the Selig S1221 and E426, the
 S1223 was chosen for its superior suction peak characteristics and inherently high maximum lift
 coefficient (CL,max), which approached 2.0 in baseline single-element simulations. Its geometric camber
@@ -74,4 +74,4 @@ envelope. The parametric sensitivity analysis confirmed that the design is highl
 placement; minor deviations in vertical or longitudinal positioning could trigger immediate flow
 detachment or solution divergence. Therefore, while the performance targets have been technically
 achieved, future work must focus on stabilizing the wake structure to ensure safe and predictable
-handling characteristics during critical flight phases
+handling characteristics during critical flight phases.
