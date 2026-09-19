@@ -21,7 +21,7 @@ explored cutting-edge optimization techniques by implementing Physics-Informed N
 multi-element airfoil configurations, creating a robust mathematical model to guide the final geometric
 refinements.
 Airfoil Selection and High-Lift Development
-The foundation of the aerodynamic design was the selection of the Selig S1223 airfoil. After a
+The foundation of the aerodynamic design was the selection of the  Selig S1223 airfoil. After a
 comprehensive comparative analysis against alternative profiles like the Selig S1221 and E426, the
 S1223 was chosen for its superior suction peak characteristics and inherently high maximum lift
 coefficient (CL,max), which approached 2.0 in baseline single-element simulations. Its geometric camber
